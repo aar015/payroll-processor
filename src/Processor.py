@@ -23,7 +23,7 @@ class BonusProcessor (object):
         # Calculate bonus
         bonus_date_range, bonus = self.calc_bonus()
         # Combine hours and bonuses
-        payroll = hours.merge(bonus, how='left', on='Name')
+        payroll = hours.merge(bonus, how='left', on='Name').fillna(0).round(2)
         date_range = [min([hours_date_range[0], bonus_date_range[0]]), max([hours_date_range[1], bonus_date_range[1]])]
         # Upload payroll to googlesheets
         top_line = 'Payroll Period,' + date_range[0] + ',' + date_range[1]
@@ -51,7 +51,7 @@ class BonusProcessor (object):
         wanted_columns = ['Name']
         wanted_columns.extend([country + ' Hours' for country in countries])
         # Add up hours from all shifts
-        hours = hours[wanted_columns].groupby('Name').sum().reset_index().round(2)
+        hours = hours[wanted_columns].groupby('Name').sum().reset_index()
         # Return calculated hours
         return(date_range, hours)
 
