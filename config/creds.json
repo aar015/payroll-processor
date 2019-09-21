@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "payroll-processor",
+  "private_key_id": "88e951bec53cec0216c8beead993257bbd2bce90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDl09evUUhVPENY\nc2pPgI2ETsrgRsEN5CuMUsJyAqKrp1tPrLwTmu0dTtMFWb2jdQ2BrgRWfzFDjfEw\nTovY5DzgPh6ak+AJXRn+aysvQc0SnoB/4mJg6dEEXYbcoYeNWgcaqQZKTwUc/9/S\nuTtQU9rnzbCGn6PvHk+EHyNXHhE0ohd/RQ4SaSYpcMb53XO6faN+WLQThG4u7pAu\nygGocogOf1+yTQTRBsncR24GW1PoDAl0UbtoIoLuj1cS4lP9l5GtUJvLnhmEKZ+h\nYQs5BzqpGwI84whzpPxMX/Jee1M31DE5pTZ42WcAiaeuT316SL/bxsTpWk09ua1X\nOTfFz5Z3AgMBAAECggEAZu3cT+lAUuQdaTSvbRGuz42WMKGffoAsvLin2vWxMt1N\n+L3ssX8WKKUPvvq1Asq+lNCBotduEco1NaRH34hAd1F61VHa6Xan2JjYi16V4Hva\nIuwZkTvGX4UfjBpPog+q1NbUOV1wdc9mx3IrzUrw5BXrtC809TeG9y4W3sJZhE8m\nlX8DbVk4Iqp0stxQ1QIPeI6F1UBu6SiDlZpQ4zyrdoW1egJ0QRu+4qI/HRtrGQZI\nDFy8I6g48WD4vhje+siGQo7But/5hHcLhTwDqltWnU+F2yAG7VavTgR1w6iP9h/x\nwLqU++d0hnhR29yrRLJAz+96Q4zfn2pkn0IehG3vwQKBgQD3bcjQoa81ypbSEcg5\nyqLWjj2OqST9nyyB1LGwcgiihiW++M7i8B90gUKHnDoR0mUsoqX6NdBFEIcIeJZO\nvHOQVaJ7J8F3mZRj4zsAUzZDdzlzPQRB4VZGUm66jmphCqop2qsDVUw4A+OcjEtp\nySHVIwBaH2Mhb29trEVCSxz3YQKBgQDtyffgE6FtBJUBhA8E19pF5fHnsRawGuNS\n95At/zdCWcXk7uguWtZlMzyizp7RjJlyjZR63hSxoSLUY6F19GZhIr8AiZxz00pN\neOHju4yg+xIamTaLfnxWvkJweos/3b4GbFPs+YZk4YQIkSfw06/Jf3pDcZNLM9uZ\n0BowgVBU1wKBgBwrFnKSBaVlE/iEZ7wUkqdEeEOWhAyPo3yAX15MDSmbhg6QutTh\nK2OTF6Tip0XCIxyKw8SRfc1vDUBsoggCslFbPm0w4HiiNl+MzfnCf2n818CD0MlD\nQxQsbEi2z+uOUEMFjvSJMG0sHCyFWEyJxl1CZ9bavelfi1r8AsKCVKDhAoGBAOX3\nXr8ZnROGy+hkY/YGHzVcVeAB1vRHfLPfclPZsAJ+ObHXDzrNZO0IaUr20ofMFxa/\nL+rH3nGPadTH6f3eeCjW5qvJakJmBET6dFO/LRj+15pbtHGhyPRHGpAXI5aHh+BE\nYcIb68qigwOaBmuU/ju8Cm0xaQbgxy9xH/LrDNqPAoGAAgd9AhOviLmXL029W4z/\nuJqEUX9D08Tej46ENT+W1snUEA7R4CJp1YHEIkd13pnf1D+JwLTr1WD+/KAQ2aEj\nyv7BnTOjzuDrw2WaHMsLqIHQQu8qybHtHY/bPjsPO4SB1aGWav2vFwQKnTs7a1AH\ni7GCXn1ukcyXEe6mBUBw8x0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "payroll-processor@payroll-processor.iam.gserviceaccount.com",
+  "client_id": "110180175493416233354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/payroll-processor%40payroll-processor.iam.gserviceaccount.com"
+}

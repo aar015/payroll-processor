@@ -1,0 +1,23 @@
+{
+  "requests": [{"addBanding": {
+    "bandedRange": {
+        "bandedRangeId": 1,
+        "range": {
+            "sheetId": 0,
+            "startRowIndex": 1,
+            "endRowIndex": 250,
+            "startColumnIndex": 0,
+            "endColumnIndex": 12},
+        "rowProperties": {
+            "headerColor": {
+                "red": 0.96862745,
+                "green": 0.79607844,
+                "blue":  0.3019608},
+            "firstBandColor": {
+                "red": 1,
+                "green": 1,
+                "blue": 1},
+            "secondBandColor": {
+                "red": 0.99607843,
+                "green": 0.972549,
+                "blue": 0.8901961}}}}}]}
